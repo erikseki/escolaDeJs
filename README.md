@@ -3,7 +3,7 @@
 
 ![Happy hour no Boteco](https://user-images.githubusercontent.com/56083781/131238912-150d2692-b800-4a21-ae8e-af3707ec0241.gif)
 
-> Ps: Para quem que está começando na jornada de Javascript, você encontrará abaixo todas as info com codigo fonte para futuras pesquisas e anotação; Informações ou dados importantes que tornam o Js um dos fatores de desenvolvimento em crescimento atualmente no mercado. Você pode pegar os algorítmos como embasamento para seus projetos caso achar que seja necessário. Faça bom uso do conhecimento e aproveite toda a ajuda possível. 
+> Ps: Para quem está começando na jornada de Javascript, você encontrará abaixo todas as info com codigo fonte para futuras pesquisas e anotação; Informações ou dados importantes que tornam o Js um dos fatores de desenvolvimento em crescimento atualmente no mercado. Você pode pegar os algorítmos como embasamento para seus projetos caso achar que seja necessário. Faça bom uso do conhecimento e aproveite toda a ajuda possível. 
 
 #### ✔️ pt1 <i><strong>implementando valores do prompt para as variáveis e diferença de idades entre duas pessoas.</strong></i> 
 #### ✔️ pt2 <i><strong>condicionais if,else e operador ternário.</strong></i> 
