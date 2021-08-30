@@ -7,7 +7,7 @@ v
 if (v < 100) {
     console.log(`velocidade aceitavel`)
 }
-VM3717:2 velocidade aceitavel
+velocidadeaceitavel
 undefined
 
 v = 120
@@ -21,7 +21,7 @@ if (v < 100) {
 } else {
     console.log(`não aceitavel`)
 }
-VM3809:4 não aceitavel
+nãoaceitavel
 undefined
 
 if (v < 100) {
@@ -33,7 +33,7 @@ if (v < 100) {
     console.log(`urgente`)
 }
 }
-VM5218:7 urgente
+urgente
 undefined
 
 v = 10
@@ -48,7 +48,7 @@ if (v < 100) {
     console.log(`urgente`)
 }
 }
-VM5268:2 velocidade aceitavel
+velocidadeaceitavel
 undefined
 
 v = 100
@@ -63,13 +63,15 @@ if (v < 100) {
     console.log(`urgente`)
 }
 }
-VM5292:5 não aceitavel
+nãoaceitavel
 undefined
 
 (v > 100) ? console.log(`velocidade maior que 100`) : console.log(`velocidade menor que 100`)
-VM5492:1 velocidade menor que 100
+
+velocidademenorque100
 undefined
 
 (v >= 50) ? console.log(`velocidade maior que 100`) : console.log(`velocidade menor que 100`)
-VM5506:1 velocidade maior que 100
+
+velocidademaiorque100
 undefined
