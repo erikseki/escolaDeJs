@@ -13,7 +13,7 @@
 
 <br>
 
-## 〽️ Condicionais 
+# 〽️ Condicionais 
 #### ✔️ pt2 <i><strong>condicionais if,else e operador ternário.</strong></i> 
 #### ✔️ pt3 <i><strong>exercicio de if, else.</strong></i> 
 #### ✔️ pt4 <i><strong>atividade com biblioteca momentjs. data,minutos,horas e dias de tempo de vôo. (utilização das condicionais if-else).</strong></i> 
@@ -22,7 +22,7 @@
 
 <br>
 
-## 🔁 Estrutura de Loops/Repetições
+# 🔁 Estrutura de Loops/Repetições
 #### ✔️ pt7 <i><strong>Estrutura de Repetição (While)</strong></i>
 #### ✔️ pt8 <i><strong>Exercicio com Estrutura de Repetição (While).</strong></i>
 #### ✔️ pt9 <i><strong>Estrutura de Repetição (Loops com For).</strong></i>
@@ -32,6 +32,16 @@
 #### ✔️ pt13 <i><strong>Exercicio Revisao da estrutura de repetições .</strong></i>
 
 <br>
+
+# 📖 Função
+#### ✔️ pt14 <i><strong>Introdução ao function (ou Função).</strong></i>
+#### ✔️ pt15 <i><strong>função e parâmetros.</strong></i>
+#### ✔️ pt16 <i><strong>Parâmetros com valor padrão.</strong></i>
+#### ✔️ pt17 <i><strong>Armadilha dos Parâmetros.</strong></i>
+#### ✔️ pt18 <i><strong>Retorno da função.</strong></i>
+#### ✔️ pt19 <i><strong>Exercicio de Funções.</strong></i>
+#### ✔️ pt20 <i><strong>Escopo</strong></i>
+
 
 ## 🔧 Arrays
 ## 🔧 Objetos
