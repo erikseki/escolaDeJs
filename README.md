@@ -41,6 +41,10 @@
 #### ✔️ pt18 <i><strong>Retorno da função.</strong></i>
 #### ✔️ pt19 <i><strong>Exercicio de Funções.</strong></i>
 #### ✔️ pt20 <i><strong>Escopo</strong></i>
+#### ✔️ pt21 <i><strong>Funções Anonimas</strong></i>
+#### ✔️ pt22 <i><strong>Arrow Function</strong></i>
+#### ✔️ pt23 <i><strong>High Order Function</strong></i>
+#### ✔️ pt24 <i><strong>Exercicio de High Order Function</strong></i>
 
 
 ## 🔧 Arrays
