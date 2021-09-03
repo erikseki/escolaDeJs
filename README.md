@@ -1,6 +1,12 @@
 # Info <img align="center" alt="erik-Js" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
 <i>Escola de Javascript</i> 
  
+<!-- icones de observação -->
+:package: Nova funcionalidade 
+:up: Atualização 
+:lady_beetle: Correção de bug 
+:checkered_flag: Release 
+
 <!--
 -->
 
@@ -8,8 +14,8 @@
 
 > Ps: Para quem está começando na jornada de Javascript, você encontrará abaixo todas as info com codigo fonte para futuras pesquisas e anotação; Informações ou dados importantes que tornam o Js um dos fatores de desenvolvimento em crescimento atualmente no mercado. Você pode pegar os algorítmos como embasamento para seus projetos caso achar que seja necessário. Faça bom uso do conhecimento e aproveite toda a ajuda possível. 
 
-## 🏁 Primeiros Passos
-# ✔️ pt1 <i><strong>implementando valores do prompt para as variáveis e diferença de idades entre duas pessoas.</strong></i> 
+# 🏁 Primeiros Passos
+#### ✔️ pt1 <i><strong>implementando valores do prompt para as variáveis e diferença de idades entre duas pessoas.</strong></i> 
 
 <br>
 
