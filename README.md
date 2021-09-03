@@ -9,7 +9,7 @@
 > Ps: Para quem está começando na jornada de Javascript, você encontrará abaixo todas as info com codigo fonte para futuras pesquisas e anotação; Informações ou dados importantes que tornam o Js um dos fatores de desenvolvimento em crescimento atualmente no mercado. Você pode pegar os algorítmos como embasamento para seus projetos caso achar que seja necessário. Faça bom uso do conhecimento e aproveite toda a ajuda possível. 
 
 ## 🏁 Primeiros Passos
-#### ✔️ pt1 <i><strong>implementando valores do prompt para as variáveis e diferença de idades entre duas pessoas.</strong></i> 
+# ✔️ pt1 <i><strong>implementando valores do prompt para as variáveis e diferença de idades entre duas pessoas.</strong></i> 
 
 <br>
 
@@ -47,7 +47,15 @@
 #### ✔️ pt24 <i><strong>Exercicio de High Order Function</strong></i>
 
 
-## 🔧 Arrays
+# 🔢 Arrays
+#### ✔️ pt25 <i><strong>Introdução aos Arrays</strong></i>
+#### ✔️ pt26 <i><strong>Funções Básicas de Arrays</strong></i>
+#### ✔️ pt27 <i><strong>Arrays Bidimensionais</strong></i>
+#### ✔️ pt28 <i><strong>Splice e Slice</strong></i>
+#### ✔️ pt29 <i><strong>Iteração de Arrays</strong></i>
+#### ✔️ pt30 <i><strong>Exercicio de Array</strong></i>
+
+
 ## 🔧 Objetos
 ## 🔧 Classes - POO 
 ## 🔧 Manipulando o DOM
