@@ -62,7 +62,15 @@
 #### ✔️ pt30 <i><strong>Exercicio de Array</strong></i>
 
 
-## 🔧 Objetos
+# 🔧 Objetos
+#### ✔️ pt31 <i><strong>Introdução a Objetos( parte 1 )</strong></i>
+#### ✔️ pt32 <i><strong>Introdução a Objetos( parte 2 )</strong></i>
+#### ✔️ pt33 <i><strong>Comparando Objetos e Arrays</strong></i>
+#### ✔️ pt34 <i><strong>Aninhando Objetos e Arrays</strong></i>
+#### ✔️ pt35 <i><strong>Adicionando Funções aos objetos</strong></i>
+#### ✔️ pt36 <i><strong>Exercicio de Objeto</strong></i>
+
+
 ## 🔧 Classes - POO 
 ## 🔧 Manipulando o DOM
 ## 🔧 Events
