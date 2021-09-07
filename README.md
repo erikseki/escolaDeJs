@@ -71,11 +71,16 @@
 #### ✔️ pt36 <i><strong>Exercicio de Objeto</strong></i>
 
 
-## 🔧 Classes - POO 
-## 🔧 Manipulando o DOM
-## 🔧 Events
-## 🔧 Evolução e Compatibilidade
-## 🔧 Modules
-## 🔧 Assincronicidade e Promises 
-## 🔧 Async Await 
-## 🔧 Requests 
+# 🔧 Classes - POO 
+#### ✔️ pt37 <i><strong>Classes e POO</strong></i>
+#### ✔️ pt38 <i><strong>Construtores e Instâncias</strong></i>
+#### ✔️ pt39 <i><strong>Métodos nas Classes</strong></i>
+
+
+# 🔧 Manipulando o DOM
+# 🔧 Events
+# 🔧 Evolução e Compatibilidade
+# 🔧 Modules
+# 🔧 Assincronicidade e Promises 
+# 🔧 Async Await 
+# 🔧 Requests 
