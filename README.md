@@ -75,6 +75,17 @@
 #### ✔️ pt37 <i><strong>Classes e POO</strong></i>
 #### ✔️ pt38 <i><strong>Construtores e Instâncias</strong></i>
 #### ✔️ pt39 <i><strong>Métodos nas Classes</strong></i>
+#### ✔️ pt40 <i><strong>Exercicio de Classe para prática</strong></i>
+#### ✔️ pt41 <i><strong>Associando Classes</strong></i>
+#### ✔️ pt42 <i><strong>Herança</strong></i>
+#### ✔️ pt43 <i><strong>Sobrescrita de método</strong></i>
+#### ✔️ pt44 <i><strong>Método Super</strong></i>
+#### ✔️ pt45 <i><strong>Método Get e Set</strong></i>
+#### ✔️ pt46 <i><strong>Método Estáticos</strong></i>
+#### ✔️ pt47 <i><strong>Variáveis Estáticas</strong></i>
+#### ✔️ pt48 <i><strong>Revisão do módolo de Classe</strong></i>
+#### ✔️ pt49 <i><strong>o que são Exceções</strong></i>
+#### ✔️ pt450 <i><strong>Bloco Try, Catch e Finally</strong></i>
 
 
 # 🔧 Manipulando o DOM
