@@ -71,7 +71,7 @@
 #### ✔️ pt36 <i><strong>Exercicio de Objeto</strong></i>
 
 
-# 🔧 Classes - POO 
+# 🧱 Classes - POO 
 #### ✔️ pt37 <i><strong>Classes e POO</strong></i>
 #### ✔️ pt38 <i><strong>Construtores e Instâncias</strong></i>
 #### ✔️ pt39 <i><strong>Métodos nas Classes</strong></i>
@@ -85,10 +85,16 @@
 #### ✔️ pt47 <i><strong>Variáveis Estáticas</strong></i>
 #### ✔️ pt48 <i><strong>Revisão do módolo de Classe</strong></i>
 #### ✔️ pt49 <i><strong>o que são Exceções</strong></i>
-#### ✔️ pt450 <i><strong>Bloco Try, Catch e Finally</strong></i>
+#### ✔️ pt50 <i><strong>Bloco Try, Catch e Finally</strong></i>
 
 
-# 🔧 Manipulando o DOM
+# 🗍 Manipulando o DOM
+#### ✔️ pt51 <i><strong>Módolos Math e Date</strong></i>
+#### ✔️ pt52 <i><strong>Eventos no HTML</strong></i>
+#### ✔️ pt53 <i><strong>Introdução ao DOM</strong></i>
+#### ✔️ pt54 <i><strong>Selecionando Elementos do DOM</strong></i>
+
+
 # 🔧 Events
 # 🔧 Evolução e Compatibilidade
 # 🔧 Modules
