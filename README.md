@@ -93,6 +93,12 @@
 #### ✔️ pt52 <i><strong>Eventos no HTML</strong></i>
 #### ✔️ pt53 <i><strong>Introdução ao DOM</strong></i>
 #### ✔️ pt54 <i><strong>Selecionando Elementos do DOM</strong></i>
+#### ✔️ pt55 <i><strong>Manipulando o DOM</strong></i>
+#### ✔️ pt56 <i><strong>Enviando DOM para a função</strong></i>
+#### ✔️ pt57 <i><strong>Exercicio manipulando o DOM</strong></i>
+#### ✔️ pt58 <i><strong>Seletores para Formularios</strong></i>
+#### ✔️ pt59 <i><strong>Evento para o formulario</strong></i>
+#### ✔️ pt60 <i><strong>Manipulando Estilos</strong></i>
 
 
 # 🔧 Events
