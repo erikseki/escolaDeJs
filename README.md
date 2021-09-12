@@ -99,9 +99,11 @@
 #### ✔️ pt58 <i><strong>Seletores para Formularios</strong></i>
 #### ✔️ pt59 <i><strong>Evento para o formulario</strong></i>
 #### ✔️ pt60 <i><strong>Manipulando Estilos</strong></i>
+#### ✔️ pt61 <i><strong>Manipulando Atributos</strong></i>
+#### ✔️ pt62 <i><strong>Exercicio praticando o DOM</strong></i>
 
 
-# 🔧 Events
+# 🔧 Events                                                                                     
 # 🔧 Evolução e Compatibilidade
 # 🔧 Modules
 # 🔧 Assincronicidade e Promises 
