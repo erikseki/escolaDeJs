@@ -103,8 +103,25 @@
 #### ✔️ pt62 <i><strong>Exercicio praticando o DOM</strong></i>
 
 
-# 🔧 Events                                                                                     
-# 🔧 Evolução e Compatibilidade
+# 🔧 Events  
+#### ✔️ pt63 <i><strong>Eventos a partir do Javascript </strong></i>
+#### ✔️ pt64 <i><strong>Manipulando Eventos</strong></i>
+#### ✔️ pt65 <i><strong>"This" e as Arrow Functions</strong></i>
+
+
+
+# 🌱 Evolução e Compatibilidade
+#### ✔️ pt66 <i><strong>Interpolação de Strings</strong></i>
+#### ✔️ pt67 <i><strong>Desestruturação de Objetos e Arrays</strong></i>
+#### ✔️ pt68 <i><strong>Operador Spread</strong></i>
+#### ✔️ pt69 <i><strong>Rest Param</strong></i>
+#### ✔️ pt70 <i><strong>Formato JSON</strong></i>
+#### ✔️ pt71 <i><strong>Npm Init e instalação dos pacotes</strong></i>
+#### ✔️ pt72 <i><strong>Transpilação com Babel</strong></i>
+#### ✔️ pt73 <i><strong>babel.config.js e .babelrc</strong></i>
+
+
+
 # 🔧 Modules
 # 🔧 Assincronicidade e Promises 
 # 🔧 Async Await 

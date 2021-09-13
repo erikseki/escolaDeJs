@@ -1,0 +1,4 @@
+// adicionando eventos pelo javascript com addEventListener
+document.querySelector("select[name='select-option']").addEventListener("change", function() {
+    alert(event.target.value)
+})
