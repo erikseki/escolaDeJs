@@ -2,7 +2,7 @@
 <i>Escola de Javascript</i> 
  
 <!-- icones de observação -->
-:package: Nova funcionalidade 
+> :package: Nova funcionalidade 
 :up: Atualização 
 :lady_beetle: Correção de bug 
 :checkered_flag: Release 
