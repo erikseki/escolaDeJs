@@ -119,10 +119,12 @@
 #### ✔️ pt71 <i><strong>Npm Init e instalação dos pacotes</strong></i>
 #### ✔️ pt72 <i><strong>Transpilação com Babel</strong></i>
 #### ✔️ pt73 <i><strong>babel.config.js e .babelrc</strong></i>
+#### ✔️ pt74 <i><strong>NPX e NPM Scripts</strong></i>
 
 
 
-### 🔧 Modules
-### 🔧 Assincronicidade e Promises 
-### 🔧 Async Await 
-### 🔧 Requests 
+
+# 🔧 Modules
+# 🔧 Assincronicidade e Promises 
+# 🔧 Async Await 
+# 🔧 Requests 
