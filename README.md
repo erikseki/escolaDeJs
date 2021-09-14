@@ -103,7 +103,7 @@
 #### ✔️ pt62 <i><strong>Exercicio praticando o DOM</strong></i>
 
 
-# 🔧 Events  
+# 📅 Events  
 #### ✔️ pt63 <i><strong>Eventos a partir do Javascript </strong></i>
 #### ✔️ pt64 <i><strong>Manipulando Eventos</strong></i>
 #### ✔️ pt65 <i><strong>"This" e as Arrow Functions</strong></i>
@@ -120,6 +120,9 @@
 #### ✔️ pt72 <i><strong>Transpilação com Babel</strong></i>
 #### ✔️ pt73 <i><strong>babel.config.js e .babelrc</strong></i>
 #### ✔️ pt74 <i><strong>NPX e NPM Scripts</strong></i>
+#### ✔️ pt75 <i><strong> Desvendando o Webpack</strong></i>
+#### ✔️ pt76 <i><strong> Desvendando o Webpack (parte 2)</strong></i>
+#### 🔧 pt77 <i><strong> Desvendando o Webpack (parte 3)</strong></i>
 
 
 
