@@ -1,0 +1,25 @@
+{
+  "name": "pt77",
+  "version": "1.0.0",
+  "description": "",
+  "main": "babel.config.js",
+  "dependencies": {
+    "acorn": "^8.5.0",
+    "acorn-import-assertions": "^1.7.6",
+    "ajv-keywords": "^3.5.2",
+    "big.js": "^5.2.2",
+    "buffer-from": "^1.1.2",
+    "caniuse-lite": "^1.0.30001257",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
