@@ -129,6 +129,9 @@
 
 # 🔧 Modules
 #### ✔️ pt78 <i><strong> Introdução aos Módulos</strong></i>
+#### ✔️ pt79 <i><strong> Exportando um Módulo</strong></i>
+#### ✔️ pt80 <i><strong> Usando um Módulo</strong></i>
+
 
 
 
