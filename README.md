@@ -128,6 +128,10 @@
 
 
 # 🔧 Modules
+#### ✔️ pt78 <i><strong> Introdução aos Módulos</strong></i>
+
+
+
 # 🔧 Assincronicidade e Promises 
 # 🔧 Async Await 
 # 🔧 Requests 
