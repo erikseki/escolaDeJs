@@ -103,6 +103,7 @@
 #### ✔️ pt62 <i><strong>Exercicio praticando o DOM</strong></i>
 
 
+
 # 📅 Events  
 #### ✔️ pt63 <i><strong>Eventos a partir do Javascript </strong></i>
 #### ✔️ pt64 <i><strong>Manipulando Eventos</strong></i>
@@ -131,6 +132,9 @@
 #### ✔️ pt78 <i><strong> Introdução aos Módulos</strong></i>
 #### ✔️ pt79 <i><strong> Exportando um Módulo</strong></i>
 #### ✔️ pt80 <i><strong> Usando um Módulo</strong></i>
+#### ✔️ pt81 <i><strong> Módulos CommonJs</strong></i>
+#### ✔️ pt82 <i><strong> Export Default </strong></i>
+#### ✔️ pt83 <i><strong> Import Default </strong></i>
 
 
 
