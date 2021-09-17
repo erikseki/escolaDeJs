@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack serve "
+    "start": "webpack serve " 
   },
   "keywords": [],
   "author": "",
@@ -25,5 +25,6 @@
     "webpack": "^5.12.1",
     "webpack-cli": "^4.3.1",
     "webpack-dev-server": "^3.11.1"
+
   }
 }

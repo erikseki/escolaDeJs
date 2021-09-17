@@ -144,6 +144,8 @@
 #### ✔️ pt81 <i><strong> Módulos CommonJs</strong></i>
 #### ✔️ pt82 <i><strong> Export Default </strong></i>
 #### ✔️ pt83 <i><strong> Import Default </strong></i>
+#### ✔️ pt84 <i><strong> Exports Nomeados </strong></i>
+#### ✔️ pt85 <i><strong> Import Nomeados </strong></i>
 
 
 
