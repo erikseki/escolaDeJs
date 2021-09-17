@@ -1,16 +1,25 @@
-# Info <img align="center" alt="erik-Js" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
+<!--
+-->
+<div align="center">
+
+# <i>Info</i> <img align="center" alt="erik-Js" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
+
 <i>Escola de Javascript</i> 
  
+![Video_21-09-14_21-53-01](https://user-images.githubusercontent.com/56083781/133353052-dac61d71-2964-4072-b5f9-b06aee75522d.gif)
+ 
+
+<!--![Happy hour no Boteco](https://user-images.githubusercontent.com/56083781/131238912-150d2692-b800-4a21-ae8e-af3707ec0241.gif)-->
+
+
 <!-- icones de observação -->
-> :package: Nova funcionalidade 
+:package: Nova funcionalidade 
 :up: Atualização 
 :lady_beetle: Correção de bug 
 :checkered_flag: Release 
+ </div>
 
-<!--
--->
-
-![Happy hour no Boteco](https://user-images.githubusercontent.com/56083781/131238912-150d2692-b800-4a21-ae8e-af3707ec0241.gif)
+</br>
 
 > Ps: Para quem está começando na jornada de Javascript, você encontrará abaixo todas as info com codigo fonte para futuras pesquisas e anotação; Informações ou dados importantes que tornam o Js um dos fatores de desenvolvimento em crescimento atualmente no mercado. Você pode pegar os algorítmos como embasamento para seus projetos caso achar que seja necessário. Faça bom uso do conhecimento e aproveite toda a ajuda possível. 
 
