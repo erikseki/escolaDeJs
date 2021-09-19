@@ -146,6 +146,7 @@
 #### ✔️ pt83 <i><strong> Import Default </strong></i>
 #### ✔️ pt84 <i><strong> Exports Nomeados </strong></i>
 #### ✔️ pt85 <i><strong> Import Nomeados </strong></i>
+#### ✔️ pt86 <i><strong> Exercicio Módulosde E6 </strong></i>
 
 
 
