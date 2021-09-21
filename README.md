@@ -146,11 +146,15 @@
 #### ✔️ pt83 <i><strong> Import Default </strong></i>
 #### ✔️ pt84 <i><strong> Exports Nomeados </strong></i>
 #### ✔️ pt85 <i><strong> Import Nomeados </strong></i>
-#### ✔️ pt86 <i><strong> Exercicio Módulosde E6 </strong></i>
+#### ✔️ pt86 <i><strong> Exercicio Módulos de E6 </strong></i>
+#### ✔️ pt87 <i><strong> Renomeando Exports e Imports </strong></i>
 
 
 
 
 # 🔧 Assincronicidade e Promises 
+#### ✔️ pt88 <i><strong>SetInterval e SetTimeOut</strong></i>
+
+
 # 🔧 Async Await 
 # 🔧 Requests 
