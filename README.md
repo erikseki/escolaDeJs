@@ -152,9 +152,18 @@
 
 
 
-# 🔧 Assincronicidade e Promises 
+# 🔧 Assincr/onicidade e Promises 
 #### ✔️ pt88 <i><strong>SetInterval e SetTimeOut</strong></i>
+#### ✔️ pt89 <i><strong>Síncrono e Assíncrono</strong></i>
+#### ✔️ pt90 <i><strong>O que são Promises</strong></i>
+#### ✔️ pt91 <i><strong>Then</strong></i>
+#### ✔️ pt92 <i><strong>Catch</strong></i>
+#### ✔️ pt93 <i><strong>Exercicio do Promises</strong></i>
+#### ✔️ pt94 <i><strong>Promises Encadeadas</strong></i>
+
 
 
 # 🔧 Async Await 
 # 🔧 Requests 
+
+
