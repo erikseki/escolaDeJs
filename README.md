@@ -137,7 +137,7 @@
 
 
 
-# 🔧 Modules
+# 📌 Modules
 #### ✔️ pt78 <i><strong> Introdução aos Módulos</strong></i>
 #### ✔️ pt79 <i><strong> Exportando um Módulo</strong></i>
 #### ✔️ pt80 <i><strong> Usando um Módulo</strong></i>
@@ -152,7 +152,7 @@
 
 
 
-# 🔧 Assincr/onicidade e Promises 
+# 🌐 Assincronicidade e Promises 
 #### ✔️ pt88 <i><strong>SetInterval e SetTimeOut</strong></i>
 #### ✔️ pt89 <i><strong>Síncrono e Assíncrono</strong></i>
 #### ✔️ pt90 <i><strong>O que são Promises</strong></i>
@@ -160,6 +160,7 @@
 #### ✔️ pt92 <i><strong>Catch</strong></i>
 #### ✔️ pt93 <i><strong>Exercicio do Promises</strong></i>
 #### ✔️ pt94 <i><strong>Promises Encadeadas</strong></i>
+#### ✔️ pt95 <i><strong>Executando Varias Promises</strong></i>
 
 
 
