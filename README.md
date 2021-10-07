@@ -161,6 +161,7 @@
 #### ✔️ pt93 <i><strong>Exercicio do Promises</strong></i>
 #### ✔️ pt94 <i><strong>Promises Encadeadas</strong></i>
 #### ✔️ pt95 <i><strong>Executando Varias Promises</strong></i>
+#### ✔️ pt96 <i><strong>Exercicio avançando Promises</strong></i>
 
 
 
