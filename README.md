@@ -166,6 +166,10 @@
 
 
 # 🔧 Async Await 
+#### ✔️ pt97<i><strong> Preparando Ambiente</strong></i>
+#### ✔️ pt98<i><strong> O que são Async Functions</strong></i>
+
+
 # 🔧 Requests 
 
 
