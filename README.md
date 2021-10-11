@@ -168,8 +168,12 @@
 # 🔧 Async Await 
 #### ✔️ pt97<i><strong> Preparando Ambiente</strong></i>
 #### ✔️ pt98<i><strong> O que são Async Functions</strong></i>
+#### ✔️ pt99<i><strong> O que são Async Functions</strong></i>
+#### ✔️ pt100<i><strong> O que é Await</strong></i>
+#### ✔️ pt101<i><strong> Executando várias Promises com Await</strong></i>
+#### ✔️ pt102<i><strong> Exercício Async Functions</strong></i>
 
-
+ 
 # 🔧 Requests 
 
 
