@@ -175,5 +175,11 @@
 
  
 # 🔧 Requests 
+#### ✔️ pt103<i><strong> Requisições Get</strong></i>
+#### ✔️ pt104<i><strong> Exibindo os Registros no Browser</strong></i>
+#### ✔️ pt105<i><strong> Exercício utilizando o Fetch</strong></i>
+
+
+
 
 
